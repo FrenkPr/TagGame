@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fmoch\\onedrive\\documenti\\unreal projects\\c++\\taggame\\intermediate\\build\\win64\\unrealeditor\\inc\\taggame\\uht\\taggame.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fmoch\\onedrive\\documenti\\unreal projects\\c++\\taggame\\intermediate\\build\\win64\\x64\\taggameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\fmoch\\onedrive\\documenti\\unreal projects\\c++\\taggame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\taggame\\definitions.taggame.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

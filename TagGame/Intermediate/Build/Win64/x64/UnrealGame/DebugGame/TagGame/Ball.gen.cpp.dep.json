@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fmoch\\onedrive\\documenti\\unreal projects\\c++\\taggame\\intermediate\\build\\win64\\unrealgame\\inc\\taggame\\uht\\ball.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fmoch\\onedrive\\documenti\\unreal projects\\c++\\taggame\\intermediate\\build\\win64\\x64\\taggame\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\fmoch\\onedrive\\documenti\\unreal projects\\c++\\taggame\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\taggame\\definitions.taggame.h",
+            "c:\\users\\fmoch\\onedrive\\documenti\\unreal projects\\c++\\taggame\\source\\taggame\\ball.h",
+            "c:\\users\\fmoch\\onedrive\\documenti\\unreal projects\\c++\\taggame\\intermediate\\build\\win64\\unrealgame\\inc\\taggame\\uht\\ball.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

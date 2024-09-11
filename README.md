@@ -1,1 +1,1 @@
-Tag game made with Unreal Engine (blueprints and C++)
+Tag game with AI players made with Unreal Engine (blueprints and C++).
